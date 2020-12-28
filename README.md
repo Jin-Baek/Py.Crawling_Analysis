@@ -1,7 +1,27 @@
 ## 파이썬을 이용한 크롤링 및 데이터 분석 토이 프로젝트 ( 개인 )
 
-* COVID19 의학 수치에 따른 코로나 심각단계 비교 분석하기  
-* COVID19 국가별, 날짜별 확진자 동향 분석하기  
-* 공공데이터 주제 하나 선택해서 크롤링 및 엑셀 변환   
-* 웹페이지 하나 선택해서 크롤링 및 엑셀 변환    
-* 주체 하나 정해서 크롤링 , 엑셀 변환 , 데이터 분석 , 시각화 진행
+* COVID19 의학 수치에 따른 코로나 심각단계 단순 분석 및 가설검정 : COVID19_impact 폴더  
+  * Visualization : X
+  * Data & Data Origin : Korea Univ. Sejong Probability and Statistics class
+
+* COVID19 국가별 확진자 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_confirmed 폴더 
+  * Visualization : flourish / Bar race 
+  * Data & Data Origin : Github , Inflearn 
+  
+(예정)
+* COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
+  * Visualization : flourish / Column Bar race
+  * Data & Data Origin : Github , Inflearn 
+
+(예정)
+* 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) :  ----  폴더 
+  * Visualization : flourish / Box plot
+  * Data & Data Origin : 공공데이터 홈페이지 
+
+(예정)
+* 네이버 쇼핑몰 카테고리별 상품 판매량 분석 
+  * Visualization : flourish / Hierarchy bar 
+  * Data & Data Origin : Developers Naver datalab with Crawling
+
+(예정)
+* ploty로 시각화 할만한 데이터 자료 토이 프로젝트 생각해보기 
