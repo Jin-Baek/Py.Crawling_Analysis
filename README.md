@@ -8,6 +8,11 @@
   * Visualization : flourish / Bar race 
   * Data & Data Origin : Github , Inflearn 
   
+  (예정)
+* COVID19 한국 2020년도 추이 분석
+  * Visualization : plotly / Various shape
+  * Data & Data Origin : 대한민국 통계청 
+  
 (예정)
 * COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
   * Visualization : flourish / Column Bar race
@@ -23,5 +28,4 @@
   * Visualization : flourish / Hierarchy bar 
   * Data & Data Origin : Developers Naver datalab with Crawling
 
-(예정)
-* ploty로 시각화 할만한 데이터 자료 토이 프로젝트 생각해보기 
+
