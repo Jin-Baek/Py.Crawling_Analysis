@@ -10,7 +10,7 @@
   
   
 * COVID19 한국 2020년도 추이 분석 : COVID19_Korea_2020
-  * Visualization : plotly / Various shape
+  * Visualization : plotly / Scatter , Bar
   * Data & Data Origin : 대한민국 통계청 
   
 (예정)
@@ -20,7 +20,7 @@
 
 (예정)
 * 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) :  ----  폴더 
-  * Visualization : flourish / Box plot
+  * Visualization : flourish or plotly / Box plot
   * Data & Data Origin : 공공데이터 홈페이지 
 
 (예정)
