@@ -8,8 +8,8 @@
   * Visualization : flourish / Bar race 
   * Data & Data Origin : Github , Inflearn 
   
-  (예정)
-* COVID19 한국 2020년도 추이 분석
+  
+* COVID19 한국 2020년도 추이 분석 : COVID19_Korea_2020
   * Visualization : plotly / Various shape
   * Data & Data Origin : 대한민국 통계청 
   
