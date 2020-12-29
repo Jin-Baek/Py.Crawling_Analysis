@@ -9,7 +9,7 @@
   * Data & Data Origin : Github , Inflearn 
   
   
-* COVID19 한국 2020년도 추이 분석 : COVID19_Korea_2020
+* COVID19 한국 2020년도 추이 분석 : COVID19_Korea_2020 폴더 
   * Visualization : plotly / Scatter , Bar
   * Data & Data Origin : 대한민국 통계청 
   
@@ -19,7 +19,7 @@
   * Data & Data Origin : Github , Inflearn 
 
 (예정)
-* 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) :  ----  폴더   + 데이터 타입 관련 간단한 정리 포함 
+* 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) + 데이터 타입 관련 간단한 정리 포함  :  ----  폴더   
   * Visualization : plotly / Box plot
   * Data & Data Origin : 공공데이터 홈페이지 
 
