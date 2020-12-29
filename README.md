@@ -19,8 +19,8 @@
   * Data & Data Origin : Github , Inflearn 
 
 (예정)
-* 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) :  ----  폴더 
-  * Visualization : flourish or plotly / Box plot
+* 한국과학기술대학교 학부별 입시 점수 현황 분석 ( 2020 ) :  ----  폴더   + 데이터 타입 관련 간단한 정리 포함 
+  * Visualization : plotly / Box plot
   * Data & Data Origin : 공공데이터 홈페이지 
 
 (예정)
