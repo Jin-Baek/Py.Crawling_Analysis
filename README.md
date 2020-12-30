@@ -17,9 +17,9 @@
   * Data & Data Origin : 대한민국 통계청 
   
   
-* 한국보건의료인국가시험원_보건의료인국가시험 성적 현황 ( 2000 ~ 2020 ) + Data type summary  :  __HealthCare_national_exam 폴더__   
+* 한국보건의료인국가시험원_보건의료인국가시험 성적 분석 ( 2000 ~ 2020 ) + Data type summary  :  __HealthCare_national_exam 폴더__   
 [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/HealthCare_national_exam/EDA_HealthCare_test.ipynb)
-  * Visualization : plotly / ox plot , histogram , bar , pie
+  * Visualization : plotly / box plot , histogram , bar , pie
   * Data & Data Origin : 공공데이터 홈페이지 
   
 (예정)
