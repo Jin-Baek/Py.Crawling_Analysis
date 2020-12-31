@@ -1,5 +1,7 @@
 ## 파이썬을 이용한 크롤링 및 데이터 분석 토이 프로젝트 ( 개인 )
 
+> [plotly graph reference](https://plotly.com/python/reference/)
+
 * COVID19 의학 수치에 따른 코로나 심각단계 단순 분석 및 가설검정 (+시각화 추가) : __COVID19_impact 폴더__   
 [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/COVID19_impact/COVID19_impact.ipynb)
   * Visualization : plotly / heatmap , scatter
