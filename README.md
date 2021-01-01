@@ -24,6 +24,12 @@
   * Visualization : plotly / box plot , histogram , bar , pie
   * Data & Data Origin : 공공데이터 홈페이지 
   
+  (진행중)
+* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : ___ 폴더 
+  * Customer data , Monthly turnover, Freight cost , Purchase Category , Customer buying trends 등 분석 
+  * Visualization : plotly / 데이터 타입에 맞는 그래프 선택 
+  * Data & Data Origin : Github , Inflearn 
+  
 (예정)
 * COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
   * Visualization : flourish / Column Bar race
