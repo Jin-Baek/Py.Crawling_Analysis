@@ -8,7 +8,7 @@
   * Data & Data Origin : Korea Univ. Sejong Probability and Statistics class
 
 * COVID19 국가별 확진자 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : __COVID19_confirmed 폴더__  
-[빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/COVID19_confirmed/COVID19_confirmed.ipynb)
+[빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/COVID19_confirmed/COVID19_confirmed.ipynb)  
 [빠른 flourish 시각화 그래프 보기](https://public.flourish.studio/visualisation/4783794/)
   * Visualization : flourish / Bar race 
   * Data & Data Origin : Github , Inflearn 
