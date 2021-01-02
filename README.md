@@ -1,5 +1,7 @@
 ## 파이썬을 이용한 크롤링 및 데이터 분석 토이 프로젝트 ( 개인 )
 
+* .ipynb 파일 특성 상 오픈하는 시간이 매우 오래 걸린다. 필요에 따라 다운로드를로 하자.
+
 > [plotly graph reference](https://plotly.com/python/reference/)
 
 * COVID19 의학 수치에 따른 코로나 심각단계 단순 분석 및 가설검정 (+시각화 추가) : __COVID19_impact 폴더__   
