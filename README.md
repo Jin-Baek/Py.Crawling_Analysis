@@ -20,13 +20,15 @@
   * Data & Data Origin : 대한민국 통계청 
   
   
-* EDA에 따른 한국보건의료인국가시험원_보건의료인국가시험 성적 분석 ( 2000 ~ 2020 ) + Data type summary  :  __HealthCare_national_exam 폴더__   
+* 한국보건의료인국가시험원_보건의료인국가시험 성적 분석 ( 2000 ~ 2020 ) + Data type summary :  __HealthCare_national_exam 폴더__   
 [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/HealthCare_national_exam/EDA_HealthCare_test.ipynb)
+  * 탐색적 데이터 분석 EDA 기법 사용
   * Visualization : plotly / box plot , histogram , bar , pie
   * Data & Data Origin : 공공데이터 홈페이지 
   
   (진행중)
-* EDA에 따른 Brazil E-commerce Olist 쇼핑몰 데이터 분석 : ___ 폴더 
+* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : ___ 폴더 
+  * 탐색적 데이터 분석 EDA 기법 사용
   * Customer data , Monthly turnover, Freight cost , Purchase Category , Customer buying trends 등 분석 
   * Visualization : plotly / 데이터 타입에 맞는 그래프 선택 
   * Data & Data Origin : Github , Inflearn 
