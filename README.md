@@ -1,6 +1,7 @@
 ## 파이썬을 이용한 크롤링 및 데이터 분석 토이 프로젝트 ( 개인 )
 
-* .ipynb 파일 특성 상 오픈하는 시간이 매우 오래 걸린다. 필요에 따라 다운로드를로 하자.
+    .ipynb 파일 특성 상 오픈하는 시간이 매우 오래 걸린다
+    필요에 따라 다운로드로 확인하자
 
 > [plotly graph reference](https://plotly.com/python/reference/)
 
