@@ -8,7 +8,7 @@
 1. nbviewer 사용 
     
     > 원래는 gist를 통해 원하는 .ipynb 파일의 raw source를 복붙하여 나오는 특정 부분의 URL로 nbviewer에 접근했던 모양이다. <br><br>
-    하지만 현재는 깃허브에 업로드된 파일의 URL 자체를 가지고 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) 에 접속하여 입력만 해도 <br><br>
+    하지만 현재는 깃허브에 업로드된 파일의 URL 자체를 가지고 [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) 에 접속하여 입력만 해도 
     nbviewer 로 .ipynb 파일 내용이 그대로 출력되는 것을 확인 할 수 있다. 출력의 결과물 까지 확인 할 수 있기 때문에 편리하다 
     
 2. py 파일로 변환 
