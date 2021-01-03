@@ -36,7 +36,6 @@
 [빠른 flourish 시각화 그래프 보기](https://public.flourish.studio/visualisation/4783794/)
   * Visualization : flourish / Bar race 
   * Data Origin : Github , Inflearn
-  * Personal analysis data based on the lecture <Inflearn-잔재미코딩-처음하는 파이썬 데이터 분석>
   
   
 * COVID19 한국 2020년도 추이 분석 : __COVID19_Korea_2020 폴더__   
@@ -57,7 +56,6 @@
   * Customer data , Monthly turnover, Delivery time , Purchase trends by category , Transaction trends by period 등 분석 
   * Visualization : plotly / 데이터 형태에 맞는 그래프 선택 
   * Data Origin : Inflearn , Olist 
-  * Personal analysis data based on the lecture <Inflearn-잔재미코딩-처음하는 파이썬 데이터 분석>
   
 (예정)
 * COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
