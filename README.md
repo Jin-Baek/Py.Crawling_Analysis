@@ -51,7 +51,7 @@
   * Visualization : plotly / box plot , histogram , bar , pie
   * Data Origin : 공공데이터 홈페이지 
   
-* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : EDA_Brazil_E-commerce_Olist 폴더   
+* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : __EDA_Brazil_E-commerce_Olist 폴더__ 
 [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/EDA_Brazil_E-commerce_Olist/EDA_e-commerce.ipynb#Analysis-of-customers-residential-area)
   * 탐색적 데이터 분석 (EDA) 기법 사용
   * Customer data , Monthly turnover, Delivery time , Purchase trends by category , Transaction trends by period 등 분석 
