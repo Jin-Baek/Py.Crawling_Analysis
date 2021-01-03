@@ -18,7 +18,7 @@
   
   
 * COVID19 한국 2020년도 추이 분석 : __COVID19_Korea_2020 폴더__   
-[빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/COVID19_Korea_2020/COVID19-korea_info_2020.ipynb)
+[빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/d76c5fe4364ba5092f7fc874a77371dcf5a695cc/COVID19_Korea_2020/COVID19-korea_info_2020.ipynb)
   * Visualization : plotly / Scatter , Bar
   * Data & Data Origin : 대한민국 통계청 
   
