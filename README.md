@@ -35,7 +35,7 @@
 [빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/gist/Jin-Baek/e48d574c14870472ad93fcd0ed77380e)  
 [빠른 flourish 시각화 그래프 보기](https://public.flourish.studio/visualisation/4783794/)
   * Visualization : flourish / Bar race 
-  * Data Origin : Github , Inflearn 
+  * Data Origin : Github , Inflearn
   
   
 * COVID19 한국 2020년도 추이 분석 : __COVID19_Korea_2020 폴더__   
@@ -50,12 +50,12 @@
   * Visualization : plotly / box plot , histogram , bar , pie
   * Data Origin : 공공데이터 홈페이지 
   
-  (진행중)
-* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : ___ 폴더 
+* Brazil E-commerce Olist 쇼핑몰 데이터 분석 : EDA_Brazil_E-commerce_Olist 폴더 
+[빠른 주피터 노트북 보기](https://nbviewer.jupyter.org/github/Jin-Baek/Py.Crawling_Analysis/blob/main/EDA_Brazil_E-commerce_Olist/EDA_e-commerce.ipynb#Analysis-of-customers-residential-area)
   * 탐색적 데이터 분석 (EDA) 기법 사용
   * Customer data , Monthly turnover, Delivery time , Purchase trends by category , Transaction trends by period 등 분석 
   * Visualization : plotly / 데이터 형태에 맞는 그래프 선택 
-  * Data Origin : Github , Inflearn 
+  * Data Origin : Inflearn 
   
 (예정)
 * COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
