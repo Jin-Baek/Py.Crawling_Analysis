@@ -67,4 +67,4 @@
   * Visualization : flourish / Hierarchy bar 
   * Data Origin : Developers Naver datalab with Crawling
 
-__The origins of the data for all projects are stored as links or word in or outside the file__
+__The origins of the data for all projects are stored as links or word inside the file or on README.md__
