@@ -1,6 +1,12 @@
-## 파이썬을 이용한 크롤링 및 데이터 분석 토이 프로젝트 
+# Crawling and ata analysis toy project using Python 
 
-### Intro
+## Introduction
+
+This repository contains simple and subjective projects based on the data analysis I have learned.
+
+__+ The origins of the data for all projects are stored as links or word inside the file or on README.md__
+
+## How to access source
 
 .ipynb 파일 특성 상 GitHub 에서 오픈하는 시간이 매우 오래 걸린다. 그래서 대부분 download 를 권장한다  
 하지만, 빠르게 내용을 확인 할 수 있는 방법이 두 가지 있다 
@@ -18,11 +24,11 @@
       ipython nbconvert - to script filename.ipynb <br><br>
       을 입력만 해주면 filename.py 파일이 생성된다. 하지만 .py 확장자 에서는 파일의 코드 자체만 확인이 가능하기 때문에 이 방법을 사용하지 않았다
       
-### Open API 
+## Open API 
 
 [카테고리 별 open API 사이트 정리 github](https://github.com/dl0312/open-apis-korea#%EA%B3%BC%ED%95%99--%EC%88%98%ED%95%99)
 
-### Topic
+## Topic
 
 [plotly graph reference](https://plotly.com/python/reference/)
 
@@ -67,4 +73,5 @@
   * Visualization : flourish / Hierarchy bar 
   * Data Origin : Developers Naver datalab with Crawling
 
-__The origins of the data for all projects are stored as links or word inside the file or on README.md__
+> ### A full review of data analysis learning content and one project upload is aimed at weekly. 
+
