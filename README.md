@@ -1,4 +1,4 @@
-# Crawling and ata analysis toy project using Python 
+# Crawling and Data analysis toy project using Python 
 
 ## Introduction
 
