@@ -62,16 +62,9 @@ __+ The origins of the data for all projects are stored as links or word inside 
   * Customer data , Monthly turnover, Delivery time , Purchase trends by category , Transaction trends by period 등 분석 
   * Visualization : plotly / 데이터 형태에 맞는 그래프 선택 
   * Data Origin : Inflearn , Olist 
-  
-(예정)
-* COVID19 국가별 사망률 동향 분석 ( 01/22/2020 ~ 06/17/202 ) : COVID19_Deaths_Rate 폴더 
-  * Visualization : flourish / Column Bar race
-  * Data Origin : Github , Inflearn 
 
 (예정)
 * 네이버 쇼핑몰 카테고리별 상품 판매량 분석 
   * Visualization : flourish / Hierarchy bar 
   * Data Origin : Developers Naver datalab with Crawling
-
-> ### A full review of data analysis learning content and one project upload is aimed at weekly. 
 
