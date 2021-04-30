@@ -4,6 +4,9 @@
 
 This repository contains simple and subjective projects based on the data analysis I have learned.
 
+
+[Study resource : Crawling & Analysis in python](https://github.com/Jin-Baek/python_crawling_analysis) ( private )
+
 __+ The origins of the data for all projects are stored as links or word inside the file or on README.md__
 
 ## How to access source
